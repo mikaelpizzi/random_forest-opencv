@@ -6,3 +6,5 @@ Single tree parameters can be modified as you want, as well as location and amou
 
 Run using Jupyter Notebook.
 Close window pressing any key.
+
+![Random forest example](../forest.png)
