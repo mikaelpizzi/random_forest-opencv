@@ -9,6 +9,6 @@ Close window pressing any key.
 
 Save your own newborn forest as an .png output pasting this code before "# window control" line:
 
-`cv.imwrite("tree.png", img)`
+`cv.imwrite("forest.png", img)`
 
 ![Random forest example](/forest.png)
