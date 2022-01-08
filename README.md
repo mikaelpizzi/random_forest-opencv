@@ -7,4 +7,8 @@ Single tree parameters can be modified as you want, as well as location and amou
 Run using Jupyter Notebook.
 Close window pressing any key.
 
+Save your own newborn forest as an .png output pasting this code before "# window control" line:
+
+`cv.imwrite("tree.png", img)`
+
 ![Random forest example](/forest.png)
